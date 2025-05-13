@@ -97,3 +97,7 @@
    * sudo head /var/log/apache2/access.log
 
   ![logs](log.png)
+
+
+### Web Page
+![webpage](webpage.png)
